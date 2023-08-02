@@ -9,3 +9,16 @@
     margin-bottom: 1rem;
     padding: 0.3rem 1rem;
 }
+
+.error-wrapper{
+    margin-top: 2rem;
+    color: brown;
+    text-align: right;
+}
+
+
+.success-wrapper{
+    margin-top: 2rem;
+    color: rgb(24, 131, 43);
+    text-align: right;
+}
